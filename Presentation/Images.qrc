@@ -1,0 +1,366 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tivanex - App Ui - Preform/Bg/Bg.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Danger.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 168.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 187-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 187.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 188-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 188.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 299.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 316.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 323.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 324.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 379.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 380.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 381.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 382.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 384.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 385.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 386.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 387.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 388.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 389.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 390.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 435.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Help.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Manitor.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Rectangle 58.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Setting.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Settings.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Squircle.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Statistic.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Vector 212.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Vector 44.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Admin.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 187.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 268.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 269.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 440.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 441.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Layer 1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Lock.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Password_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Rectangle 198.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Rectangle 199.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Rectangle 333.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/secure1450111.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/User.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Username_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Group 387-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Group 387.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/reset.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Shot down.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/00.00-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/00.00.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 188.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 192.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 218.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 224.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 386.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 387.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Group 388.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Up-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Up-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Up-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Up.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Camera_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Divider_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Exposuer_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/feed jack_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Focus_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Group 188.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Group 386.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Group 387.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Group 388.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-4.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-5.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF-6.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/PLC_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Subtract-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Subtract.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/UPS_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Vector 207.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Vector 208.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Vector 209.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Vector 210.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Vector 211.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/White indicator_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/00.00-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/00.00-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/00.00.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Delay.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Feed Jack.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 168.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 192-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 192-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 192.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 219-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 219.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 220-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 220.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 222.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 353.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 389.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 390.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 391.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 392.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 393.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 394.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 395.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Group 396.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Layer 1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Manitor.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 194.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 195.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 333.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 64.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Reject Jack.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Reverse.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Setting.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Settings.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Speed.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Star wheel setting.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Statistic.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Time.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Union.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up-4.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up-5.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Up.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Vector 213.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 192.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 404.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 405.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 406.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 407.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 408.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 409.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Rectangle 200.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Squircle-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Squircle.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Up.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Vector 199.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Vector 206.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/00.00-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/00.00-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/00.00-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/00.00.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 192-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 192.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 266.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 267.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 355.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 359.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 367-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 367-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 367.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 368-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 368.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 374.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 410.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 411.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 412.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Group 413.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Head defect_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Layer 1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/OFF-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/OFF-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/OFF-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/ON-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/ON-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/ON-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Oval Max_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Oval Min_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Rectangle 334-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Rectangle 334.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Ringdefect_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-4.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-5.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-6.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up-7.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-3/Tivanex - App Ui 04 - Page 2-3/Up.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Access level.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Admin-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Admin.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Change Password.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 267.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 268-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 268.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 269-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 269.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 275.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 292.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 293.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 414.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 415.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 416.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 417.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 418.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 419.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 420.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Group 421.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Layer 1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Lock-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Lock.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/New user.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Password_-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Password_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Rectangle 197.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Rectangle 198.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Rectangle 64.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/User-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/User.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/Username.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/ValidationPassword_-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/ValidationPassword_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/2000-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/2000.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/From_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 168.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 187.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 268.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 269.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 299.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 353.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 424.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 425.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-4.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-5.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image-6.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Image.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Manitor.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Rectangle 64.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Reject Images.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Setting.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Settings.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Statistic.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/To_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Union.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Up-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Up-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Up-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Up.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Vector 213.svg</file>
+        <file>Tivanex - App Ui - Preform/New SET-01.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/secure145011.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/secure1450111-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/secure1450111111.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-4/secure145011111111-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 64.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Reverse.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 195.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Camera Preview.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Gallery.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 340.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 341.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 342.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 343.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 344.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 345.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 347.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 348.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 397.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 398.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 399.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 400.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 401.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 402.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Group 403.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-2.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-3.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-4.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-5.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-6.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Image-7.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Layer 1.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Rectangle 197.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Rectangle 207.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Rectangle 208.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Sample Image.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 207.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 208.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 209.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 210.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 211.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/White indicator_.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 199.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Rectangle 206.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-1/Vector 200.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-3/Reverse out round.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 190.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-1/Rectangle 192.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 434.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 389.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 380.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 382.png</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Blur BG.jpg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Group 488.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Power/Group 489.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 467.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 468.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 469.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Help - Big - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Help - Big - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Help - Small - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Help - Small - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Manitor - Big - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Manitor - Big - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Manitor - Small - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Manitor - Small - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Setting - Big - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Setting - Big - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Setting - Small - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Setting - Small - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Statisic - Big - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Statisic - Big - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Statisic - Small - OFF.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-2/Statisic - Small - ON.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 2-2-2/Group 497.svg</file>
+        <file>Tivanex - App Ui - Preform/CAMERA Connection/Group 483.svg</file>
+        <file>Tivanex - App Ui - Preform/CAMERA Connection/Group 498.svg</file>
+        <file>Tivanex - App Ui - Preform/CAMERA Connection/Group 499.svg</file>
+        <file>Tivanex - App Ui - Preform/PLC Connection/Group 479.svg</file>
+        <file>Tivanex - App Ui - Preform/PLC Connection/Group 482.svg</file>
+        <file>Tivanex - App Ui - Preform/PLC Connection/Group 487.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 501.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 Login popup/Group 500.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 3/Group 472.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 458.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Group 518.svg</file>
+        <file>Tivanex - App Ui - Preform/Tivanex - App Ui 04 - Page 1-1 edited/Rectangle 64.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 506.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 507.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 508.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 509.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 510.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 511.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 512.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 513.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 514.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 515.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 516.svg</file>
+        <file>Tivanex - App Ui - Preform/Monitor Charts/Group 517.svg</file>
+        <file>Tivanex - App Ui - Preform/Ovality - Diameter/Diameter_.svg</file>
+        <file>Tivanex - App Ui - Preform/Ovality - Diameter/Ovality_.svg</file>
+        <file>Tivanex - App Ui - Preform/TivanEX logo.png</file>
+        <file>Tivanex - App Ui - Preform/HELP/Help - Preform App V.1.0.0-03.png</file>
+        <file>Tivanex - App Ui - Preform/HELP/TivanEX.jpg</file>
+    </qresource>
+</RCC>

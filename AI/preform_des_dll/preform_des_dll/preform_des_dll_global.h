@@ -1,0 +1,12 @@
+#ifndef PREFORM_DES_DLL_GLOBAL_H
+#define PREFORM_DES_DLL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PREFORM_DES_DLL_LIBRARY)
+#  define PREFORM_DES_DLL_EXPORT Q_DECL_EXPORT
+#else
+#  define PREFORM_DES_DLL_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PREFORM_DES_DLL_GLOBAL_H

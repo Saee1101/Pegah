@@ -1,0 +1,12 @@
+#ifndef PREFORM_LIGHT_GLOBAL_H
+#define PREFORM_LIGHT_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PREFORM_LIGHT_LIBRARY)
+#  define PREFORM_LIGHT_EXPORT Q_DECL_EXPORT
+#else
+#  define PREFORM_LIGHT_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PREFORM_LIGHT_GLOBAL_H
